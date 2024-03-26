@@ -31,3 +31,26 @@ html,body{
     border-radius:5px;
     font-size: 20px;
 }
+
+.text-center{
+    text-align: center;
+}
+.bg-color{
+    background:red;
+}
+.mx-auto{
+    margin:auto;
+}
+.flex{
+    display:flex;
+
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items:center;
+}
+#but-1{
+    width:142px;
+}
